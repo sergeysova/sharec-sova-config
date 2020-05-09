@@ -1,0 +1,22 @@
+{
+  "name": "sharec-sova-config",
+  "version": "0.1.0",
+  "description": "Shared configs for Sova's projects",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "sharec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeysova/sharec-sova-config.git"
+  },
+  "author": "Sergey Sova <mail@sergeysova.com> (https://sergeysova.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeysova/sharec-sova-config/issues"
+  },
+  "homepage": "https://github.com/sergeysova/sharec-sova-config#readme",
+  "dependencies": {
+    "sharec": "^2.1.0"
+  }
+}
