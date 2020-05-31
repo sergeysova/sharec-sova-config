@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/sergeysova/sharec-sova-config/issues"
   },
+  "files": [
+    "configs"
+  ],
   "homepage": "https://github.com/sergeysova/sharec-sova-config#readme",
   "dependencies": {
     "sharec": "^2.1.0"
